@@ -2,10 +2,10 @@
 #include <ESP8266WiFi.h>
 #include <dhtnew.h>
 
-#define FIREBASE_HOST "home-fwgw-3.firebaseio.com/"
-#define FIREBASE_AUTH "LWBeIYkb4ifC2gcWxWWcEWJFO8FZ54f6fuCsmlWe"
-#define WIFI_SSID "414"
-#define WIFI_PASSWORD "123456789a"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define led  D6
 #define blue  D7
